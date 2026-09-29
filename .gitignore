@@ -1,0 +1,11 @@
+# Personal conversation history saved by research_agent.py
+agent_memory.json
+
+# Secrets (keys live in environment variables, never in files)
+.env
+
+# Python and Mac clutter
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
